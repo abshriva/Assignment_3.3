@@ -1,0 +1,126 @@
+#Form
+{
+    width: 500px;
+    height:1000px;
+    margin-left: 250px;
+    background-image: url(../Images/form.jpg);
+    background-repeat: no-repeat;
+    background-size: 500px 1000px;
+  
+}
+
+
+p
+{
+    width: 380px;
+    height: 45px;
+    opacity: 0.8;
+    margin-left: 60px; 
+    border-radius: 8px;
+    background-image: url(../Images/pimage.jpg);
+    background-repeat: no-repeat;
+    opacity: 0.7;
+}
+#pbackground
+{
+    width: 380px;
+    height: 95px;
+    opacity: 0.8;
+    margin-left: 60px; 
+    border-radius: 5px;
+    background-image: url(../Images/pimage.jpg);
+    background-repeat: no-repeat;
+    opacity: 0.7;
+
+}
+
+h3
+{
+    margin-left: 60px;
+    color:white;
+}
+#box
+{
+    height:28px;
+    border-radius: 5px;
+    width:200px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+#pcode
+{
+    height:28px;
+    border-radius: 5px;
+    width:200px;
+    margin-left: 6px;
+    margin-top: 5px;
+}
+input[type=textarea]
+{
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-top: 9px;
+    
+}
+#add
+{
+      margin-left: 17px;
+      border-radius: 5px;
+      margin-top: 5px;
+}
+#country
+{
+    height:28px;
+    border-radius: 5px;
+    width:200px;
+    margin-left:20px;
+    margin-top: 5px;
+}
+#cnum
+{
+    height:28px;
+    border-radius: 5px;
+    width:200px;
+    margin-left: -12px;
+    margin-top: 5px;
+}
+#scode
+{
+    height:28px;
+    border-radius: 5px;
+    width:200px;
+    margin-left: -15px;
+    margin-top: 5px;
+   
+}
+#ncard
+{
+    height:28px;
+    border-radius: 5px;
+    width:200px;
+    margin-left: -15px;
+    margin-top: 5px;
+   
+}
+span
+{
+    margin-left: 70px;
+}
+
+Lable_align
+{
+   vertical-align:top;
+}
+#button
+{
+    height: 30px;
+    width: 100px;
+    border-radius: 15px;
+    background-color:darkblue;
+    color: white;
+}
+label
+{
+margin-left: 10px;
+font-family: 'Times New Roman', Times, serif;
+}
